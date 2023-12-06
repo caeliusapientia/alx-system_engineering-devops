@@ -31,6 +31,3 @@ This repository contains several scripts that perform various tasks. Here's what
 14. **13-symbolic_link**: Creates a symbolic link named "__ls__" in the current directory, pointing to /bin/ls.
 
 15. **14-copy_html**: Copies HTML files from the current directory to the parent directory, only if they don't exist in the parent directory or are newer.
-
-Feel free to explore and run these scripts for various tasks!
- 
